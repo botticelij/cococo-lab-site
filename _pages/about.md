@@ -6,12 +6,13 @@ subtitle: "Cornell Computational Cognition Lab"
 
 profile:
   align: right
-  image: prof_pic.jpg      # you can replace this with a lab logo later
+  image: co3.png      # you can replace this with a lab logo later
   image_circular: false    # set to true if you want a circular crop
   more_info: >
     Cornell University  
-    Department of Psychology  
-    Ithaca, NY
+    Psychology Department
+    Ithaca, NY, USA
+    kj338@cornell.edu
 
 selected_papers: true      # show selected={true} pubs on the homepage
 social: true               # show social icons from _config.yml
