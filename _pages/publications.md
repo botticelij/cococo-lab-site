@@ -7,6 +7,8 @@ nav: true
 nav_order: 2
 ---
 
+*This is a partial list of publications. A complete list will be added soon.*
+
 <!-- _pages/publications.md -->
 
 <!-- Bibsearch Feature -->
