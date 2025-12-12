@@ -2,7 +2,7 @@
 layout: about
 title: "CoCoCo Lab"
 permalink: /
-subtitle: "Cornell Computational Cognition Lab"
+subtitle: "<span style='font-size:1.2em;'>Principal Investigator: Nori Jacoby</span>"
 
 profile:
   align: right
